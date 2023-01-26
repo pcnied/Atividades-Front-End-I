@@ -1,0 +1,24 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    width: 80px;
+    padding: 3px;
+}
+
+.ta {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tb {
+    text-align: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.table {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

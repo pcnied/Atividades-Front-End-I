@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.edicao {
+    background-color: #ddd;
+    height: 100vh;
+  }
+
+div {
+    position: fixed;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+  }
+
+  .quadrado1 {
+    bottom: 0;
+    right: 0;
+  }
+
+  .quadrado2 {
+    bottom: 0;
+    right: 103px;
+  }
+
+  .quadrado3 {
+    bottom: 0;
+    right: 206px;
+  }
+
+  .quadrado4 {
+    bottom: 103px;
+    right: 0;
+  }
+
+  .quadrado5 {
+    bottom: 206px;
+    right: 0;
+  }
+
+  .quadrado6 {
+    bottom: 103px;
+    right: 103px;
+  }
+
+  .quadrado7 {
+    top: 0;
+    left: 0;
+  }
+
+  .quadrado8 {
+    top: 103px;
+    left: 0;
+  }
+
+  .quadrado9 {
+    top: 206px;
+    left: 0;
+  }
+
+  .quadrado10 {
+    top: 0;
+    left: 103px;
+  }
+
+  .quadrado11 {
+    top: 0;
+    left: 206px;
+  }
+
+  .quadrado12 {
+    top: 103px;
+    left: 103px;
+  }
